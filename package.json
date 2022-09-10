@@ -14,9 +14,9 @@
 		"@typescript-eslint/parser": "^4.22.0",
 		"chai": "^4.3.4",
 		"glob-promise": "^4.2.0",
-		"gulp": "^4.0.2",
+		"gulp": "^3.9.1",
 		"mocha": "^9.0.2",
-		"np": "^7.5.0",
+		"np": "^3.0.4",
 		"rollup": "^2.45.2",
 		"ts-node": "^10.1.0",
 		"typescript": "^4.2.4"
@@ -30,7 +30,7 @@
 		"image-size": "^1.0.0",
 		"plugin-error": "^1.0.1",
 		"rename": "^1.0.4",
-		"sharp": "^0.28.1",
+		"sharp": "^0.31.0",
 		"through2": "^4.0.2",
 		"vinyl": "^2.2.1"
 	},
